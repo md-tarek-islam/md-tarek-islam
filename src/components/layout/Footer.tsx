@@ -113,9 +113,9 @@ export function Footer() {
           <p className="text-sm text-muted-foreground">
             &copy; {new Date().getFullYear()} Tarek.dev. All rights reserved.
           </p>
-          <p className="text-sm text-muted-foreground">
+          {/* <p className="text-sm text-muted-foreground">
             Designed and developed by Uttom Kumar.
-          </p>
+          </p> */}
         </div>
       </div>
     </footer>
